@@ -1,7 +1,7 @@
 ## 翻牌遊戲
 簡易的翻牌小遊戲 ( 即撲克遊戲的撿紅點 ) 進行記憶力考驗。
 
-![Memorizing_Game](https://raw.githubusercontent.com/JIN-SKILL/Example_Image/main/Memorizing_Game.png)
+![Memorizing_Game](https://raw.githubusercontent.com/JIN-SKILL/Example_Image/main/Memorizing_Game.gif)
 
 ## 規則說明
 + 場上為黑桃/愛心/方塊/梅花四花色各13張合計52張牌
